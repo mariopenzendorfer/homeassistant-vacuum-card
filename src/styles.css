@@ -178,6 +178,7 @@ ha-card {
   text-overflow: ellipsis;
   overflow: hidden;
   margin-left: calc(28px + var(--vc-spacing)); /* size + margin of spinner */
+  margin-right: var(--vc-spacing); /* size + margin of spinner */
 }
 
 .status mwc-circular-progress {
